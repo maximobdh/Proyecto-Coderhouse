@@ -5,14 +5,6 @@
     scroll-behavior: smooth;
 }
 
-#sidebar{
-   width: 500px;
-   height: 100%;
-   display: none;
-   background-color: red;
-   position: absolute;
-}
-
 body{
     background-color: #FFE6A7;
     color: #432818;
